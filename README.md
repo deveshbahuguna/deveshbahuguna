@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @deveshbahuguna
-- 👀 I’m interested in working on Open Source Project which
+- 👀 I’m interested in working on Open Source Project
 - 🌱 I have been working in .NET and C# for around 4 years.
      I have worked on Winform & Xamarin.
 Currently i am working on Blazor.
